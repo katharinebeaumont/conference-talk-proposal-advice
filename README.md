@@ -2,7 +2,7 @@
 
 Never given a conference talk before, but would like to try?
 
-This will contain a compilation of advice and tips from seasoned to first time conference speakers, program committee members and conference organisers.
+This open source guide will contain a compilation of advice and tips from seasoned to first time conference speakers, program committee members and conference organisers.
 
 ## Please contribute!
 

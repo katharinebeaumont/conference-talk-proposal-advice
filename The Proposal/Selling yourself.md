@@ -4,7 +4,7 @@ Again, look at talks at conferences past – what caught your eye? Why?
 
 ## Example of a thought-provoking abstract
 
-Speaker: [Roy Van Rijn](https://twitter.com/royvanrijn)
+Speaker: [Roy van Rijn](https://twitter.com/royvanrijn)
 
 Conference: [Devoxx UK](http://devoxx.co.uk/) 2017
 

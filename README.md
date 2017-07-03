@@ -14,7 +14,7 @@ If you would like to contribute advice, please see the issues list and pick some
 Please see the wiki for more information.
 
 
-All contributions will be attributed (unless you would rather by anonymous), so please supply your name, and any titles/ links you would like included.
+All contributions will be attributed (unless you would rather be anonymous), so please supply your name, and any titles/ links you would like included.
 
 ## Want to contribute, pushed for time?
 

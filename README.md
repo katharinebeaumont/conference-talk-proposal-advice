@@ -12,6 +12,8 @@ If you would like some advice or something to be addressed, please open an issue
 
 If you would like to contribute advice, please see the issues list and pick something up, then create a pull request.
 Please see the wiki for more information.
+
+
 All contributions will be attributed (unless you would rather by anonymous), so please supply your name, and any titles/ links you would like included.
 
 ## Want to contribute, pushed for time?

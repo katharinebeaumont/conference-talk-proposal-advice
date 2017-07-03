@@ -2,7 +2,7 @@
 
 ### [Roy van Rijn](https://twitter.com/royvanrijn)
 
-Speaker and Program Committee member for Devoxx conferences, among others.
+Speaker and Program Committee member for Devoxx conferences, and more.
 
 **As a speaker**
 

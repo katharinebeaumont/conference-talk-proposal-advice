@@ -1,6 +1,6 @@
 ## Elsewhere on the internet....
 
 
-- Check out Ted Neward's [Speaking Tips: How to Write Good Proposals](http://blogs.tedneward.com/post/speaking-tips-proposals/)
+Check out Ted Neward's [Speaking Tips: How to Write Good Proposals](http://blogs.tedneward.com/post/speaking-tips-proposals/)
 
-- A useful, comprehensive guide from [Zach Holman](https://twitter.com/holman): http://speaking.io/
+[Thoughts on public speaking by Zach Holman] (Speaking.io)

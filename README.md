@@ -4,6 +4,8 @@ Never given a conference talk before, but would like to try?
 
 This open source guide will contain a compilation of advice and tips from seasoned to first time conference speakers, program committee members and conference organisers.
 
+It also contains [a list of other guides and external resources](https://github.com/katharinebeaumont/conference-talk-proposal-advice/blob/master/Resources/Resources.md) that are recommended.
+
 Please note, this guide is in it's infancy, so if anything is unclear, please [contact me](https://twitter.com/katharineCodes).
 
 ## Please contribute!

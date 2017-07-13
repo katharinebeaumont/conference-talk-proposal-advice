@@ -27,4 +27,4 @@ Ask yourself the following questions:
 
 The tricky thing to judge is the submission that people need to know about, but everyone else is doing it to death. The problem with this path, and especially for a new speaker, is that if program committees are choosing between 10 Docker talks, the one that gets chosen has to be really very good.
 
-Either way, you need to sell your proposal and your qualifications. Why are you the right person to present the talk? Do you have any recordings of you speaking before? If not, try making a 3 minute video of you speaking over slides, to give a kind of trailer for the program committee.
+Either way, you need to sell your proposal and your qualifications. Why are you the right person to present the talk? Do you have any recordings of you speaking before? If not, try making a 3 minute video of you speaking over slides, to give a kind of trailer for the Program Committee.

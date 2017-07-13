@@ -18,7 +18,7 @@ Speaker and Program Committee member for Devoxx conferences, [Roy van Rijn](http
 [Roy van Rijn](https://twitter.com/royvanrijn):
 > I don't have any particular thoughts about writing abstracts, for me it is just trying to: 
 > - Write about what I want to talk about (braindump)
-- Get people interested in that topic
+> - Get people interested in that topic
 
 And, from the point of view of being on the program committee:
 

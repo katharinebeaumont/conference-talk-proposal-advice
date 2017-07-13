@@ -1,6 +1,6 @@
 # Getting some experience
 
-## Where to practise
+## Where to speak first
 
 Before you get to the conference stage, it is essential to get some practise first. This is an almost universal rule of thumb.
 
@@ -13,6 +13,6 @@ Conference organiser [Mark Sellors](https://twitter.com/sellorm) suggests:
 - Try to arrange a talk at your place of work on a topic of interest to your colleagues.
 - Practice at home on friends or for a video camera.
 
-## Why get practice
+## Why get experience
 
-As well as preparing you for a conference proposal, and gaining confidence, you can use the opportunity to film yourself.
+As well as preparing you for a conference proposal, and gaining confidence, you can use the opportunity to film yourself. See [The CFP](https://github.com/katharinebeaumont/conference-talk-proposal-advice/blob/master/4.%20Submitting%20the%20Proposal/The%20CFP.md) for more on this.

@@ -1,4 +1,4 @@
-## What to focus on
+# What to focus on
 
 Java Champion and JavaOne Content Committee member [David Heffelfinger](https://twitter.com/ensode):
 
@@ -16,9 +16,9 @@ Speaker: [Roy van Rijn](https://twitter.com/royvanrijn)
 
 Conference: [Devoxx UK](http://devoxx.co.uk/) 2017
 
-Title: From Tic Tac Toe to AlphaGo: Playing Games with AI and Machine Learning
+Title: *From Tic Tac Toe to AlphaGo: Playing Games with AI and Machine Learning*
 
 Abstract:
 
-> Google's AlphaGo is an extraordinary breakthrough for Artificial Intelligence. The game of 19x19 Go has 1.74×10^172 unique positions and is about a 'googol' times harder to calculate than chess. Experts thought it would take at least another decade before AI would be able to beat the best human players. So how did Google tackle this problem? What algorithms did they use and how do they work?
+*Google's AlphaGo is an extraordinary breakthrough for Artificial Intelligence. The game of 19x19 Go has 1.74×10^172 unique positions and is about a 'googol' times harder to calculate than chess. Experts thought it would take at least another decade before AI would be able to beat the best human players. So how did Google tackle this problem? What algorithms did they use and how do they work?*
 

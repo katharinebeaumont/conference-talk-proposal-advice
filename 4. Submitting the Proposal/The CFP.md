@@ -21,13 +21,11 @@ As a rule of thumb, up to 3 submissions is good. 26 minutes 35 seconds into the 
 
 ## As a new speaker, how can I make my proposal stand out?
 
-Absolutely film yourself. Whether, as [Trisha Gee](https://twitter.com/trisha_gee) suggests in the Java Council podcast, this is at a local meetup by your friend on an iPhone, or professionally filmed, any material of you speaking is good material. Program Committee members are looking for evidence that you can string a sentence together and effectively communicate. 
+Absolutely film yourself. This can be, as [Trisha Gee](https://twitter.com/trisha_gee) suggests in the Java Council podcast, at a local meetup on your friend's iPhone. Any material of you speaking is good material. Program Committee members are looking for evidence that you can string a sentence together and effectively communicate. 
 
-Another option, if you have no examples of yourself being filmed, is to make a kind of trailer. Prepare a short demo showing what you intend to talk about. 3-5 minutes should be enough. Include some slides and tell them about the key points of your presentation. You can upload this to YouTube as 'unlisted' and paste a copy of the link with your submission, in private notes to the Program Committee.
+If you have no examples of yourself being filmed, another option is to make a kind of trailer. Prepare a short demo showing what you intend to talk about. 3-5 minutes should be enough. Include some slides and tell them about the key points of your presentation. You can upload this to YouTube as 'unlisted'. Paste a copy of the link with your submission, explaining in private notes to the Program Committee that as you have no recorded talks, you have produced this. 
 
-## What is the Committee looking for?
-
-What is the Program Committee(PC) looking for?
+## What is the Program Committee(PC) looking for?
 
 Speaker and Program Committee member for Devoxx conferences, [Roy van Rijn](https://twitter.com/royvanrijn):
  

@@ -2,7 +2,7 @@
 
 ## Where to speak first
 
-Before you get to the conference stage, it is essential to get some practise first. This is an almost universal rule of thumb.
+Before you get to the stage where you are going to submit a talk to a conference, it is essential to get some practice. This is an almost universal rule of thumb.
 
 Luckily, there are many ways to do this.
 
@@ -15,4 +15,4 @@ Conference organiser [Mark Sellors](https://twitter.com/sellorm) suggests:
 
 ## Why get experience
 
-As well as preparing you for a conference proposal, and gaining confidence, you can use the opportunity to film yourself. See [The CFP](https://github.com/katharinebeaumont/conference-talk-proposal-advice/blob/master/4.%20Submitting%20the%20Proposal/The%20CFP.md) for more on this.
+As well as preparing you for a conference and gaining confidence, you can use the opportunity to film yourself. This will strengthen your proposal. See [The CFP](https://github.com/katharinebeaumont/conference-talk-proposal-advice/blob/master/4.%20Submitting%20the%20Proposal/The%20CFP.md) for more on this.
